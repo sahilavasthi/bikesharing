@@ -53,4 +53,4 @@ Based on various meteorological surveys and people's styles, the service provide
 
 
 ## Contact
-Created by [@sahilavasthi] - feel free to contact us!
+Created by [@sahilavasthi] - feel free to contact!
